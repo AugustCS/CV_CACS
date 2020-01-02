@@ -1,0 +1,41 @@
+body{
+    background: #f8f9fa;
+}
+.container{
+    background:white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.box-social a{
+    display: inline-block;
+    vertical-align: top;
+    width:100%;
+}
+span{
+    display: inline-block;
+    vertical-align: top;
+    width:100%;
+}
+h3{
+    margin-top: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+h4,.m-text{
+    margin-top: 15px;
+}
+h4,.p-title{
+    font-family: 'Work Sans', sans-serif;
+}
+.gray-text{
+    color:#92969a;
+}
+.blue-text{
+    color:#007bff;
+}
+.f-img{
+    border:2px solid #92969a;
+}
+.p-title{
+    font-size: 25px;
+    width:auto;
+}
