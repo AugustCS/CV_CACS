@@ -39,3 +39,17 @@ h4,.p-title{
     font-size: 25px;
     width:auto;
 }
+@media(max-width:800px){
+    .r-mar{
+        margin-top: 15px;
+    }
+    .r-mar-p{
+        margin-top: 10px;
+    }
+    .text-p-res{
+        text-align: center;
+    }
+    .l-pdf-res{
+        width: 100%;
+    }
+}
